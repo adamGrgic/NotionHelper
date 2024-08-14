@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotionHelper", "NotionHelper\NotionHelper.csproj", "{9C195742-CBC8-450B-8A8C-907D17279836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C195742-CBC8-450B-8A8C-907D17279836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C195742-CBC8-450B-8A8C-907D17279836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C195742-CBC8-450B-8A8C-907D17279836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C195742-CBC8-450B-8A8C-907D17279836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE937B4-1BA6-4FD4-A52B-26FA01453626}
+	EndGlobalSection
+EndGlobal
